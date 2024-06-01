@@ -1,0 +1,12 @@
+lost+found/
+pip_cache/
+pip_libraries1/
+pip_tmp/
+results/
+mistral_learning/
+pip_libraries/
+pip_temp/
+tmp/
+venv/
+trained_model/
+trained_model/model.safetensors
